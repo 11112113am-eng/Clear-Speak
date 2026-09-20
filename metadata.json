@@ -1,0 +1,6 @@
+{
+  "name": "Clear-Speak",
+  "description": "An accessibility assistant designed for social good that translates complex legal, medical, government, and financial jargon into plain, compassionate 5th-grade language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
